@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hritika Ratnam</h1>
 <h3 align="center">Final Year Student @IIITA | Full-Stack Development Enthusiast | DSA Expert | Passionate about Building Scalable Applications</h3>
-[![MasterHead](https://i.gifer.com/GYny.gif)](https://rishavchanda.io)
+<!-- [![MasterHead](https://i.gifer.com/GYny.gif)](https://rishavchanda.io) -->
+<img align ="center" alt="Coding" width="600" src="https://i.gifer.com/GYny.gif">
 
 - 🌱 I’m currently learning **React Native**
 
