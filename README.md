@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hritika Ratnam</h1>
 <h3 align="center">Final Year Student @IITA | Full-Stack Development Enthusiast | DSA Expert | Passionate about Building Scalable Applications</h3>
+<img align="https://images.app.goo.gl/NesBtRw7pq9CADUG9">
 
 - 🌱 I’m currently learning **React Native**
 
@@ -13,7 +14,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/in/hritika-ratnam-32baaa234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/hritika-ratnam-32baaa234" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/hritika_12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/hritika_12/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/hritikana58sc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/hritikana58sc/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/hritikana58sc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/hritikana58sc/" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
