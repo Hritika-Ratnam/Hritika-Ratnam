@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hritika Ratnam</h1>
-<h3 align="center">Final Year Student @IITA | Full-Stack Development Enthusiast | DSA Expert | Passionate about Building Scalable Applications</h3>
-<img align ="center" alt="Coding" width="500" src="https://i.gifer.com/GYny.gif">
+<h3 align="center">Final Year Student @IIITA | Full-Stack Development Enthusiast | DSA Expert | Passionate about Building Scalable Applications</h3>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img align="center" alt="Coding" width="500" src="https://i.gifer.com/GYny.gif">
+</div>
 
 - 🌱 I’m currently learning **React Native**
 
